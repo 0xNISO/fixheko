@@ -1,12 +1,8 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm KOSTA 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Fixheko 👋</b></h1>
   <h6 align="center"> 
       <i>### - my mission succeeded - ###</i>
    </h6>
-</p>
- 
- <p align="center">
-    <img align="center" alt="visitors" src="https://kostadev.xyz/counter/?v=10" />
 </p>
 
  <div align="center">
@@ -21,7 +17,6 @@
 - 📬 How to reach me: <strong>kosta#6666</strong> 📞.
 - 💬 Ask me about anything!
 - ⚡ Fun fact: Never try to make me a <strong><i>fool</i></strong> 🤡.
-- <a href="https://www.youtube.com/watch?v=R8U2ElYYChs"> Click Here to learn more about me </a> 🗃️
 
 ### ____________________________________________________________________________________________________________________
 
