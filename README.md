@@ -12,9 +12,9 @@
   ### ____________________________________________________________________________________________________________________
 
 ### I am a Developer
-- 🌱 I’m currently learning <strong>Assembly & IT Cyber Security</strong> 🐱‍💻.
+- 🌱 I’m currently working at <strong>Cyber Security</strong> 🐱‍💻.
 - 👯 I’m collaborating with other developers and kids. 😂
-- 📬 How to reach me: <strong>kosta#6666</strong> 📞.
+- 📬 How to reach me: <strong>fixheko#1000</strong> 📞.
 - 💬 Ask me about anything!
 - ⚡ Fun fact: Never try to make me a <strong><i>fool</i></strong> 🤡.
 
@@ -24,4 +24,4 @@
 
 
 # Most Used Languages.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSTA51&show_icons=true&hide_border=true&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fixheko&show_icons=true&hide_border=true&theme=radical)]()
